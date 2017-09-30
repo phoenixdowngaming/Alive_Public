@@ -1,0 +1,20 @@
+
+author = "PDG Xian : ALiVE Mod by ALiVE Team"; // Author
+onLoadName = "Phoenix Down Gaming: ALiVE Public"; // Mission name (temporary solution; actual name set in editor will be used later in the alpha)
+onLoadMission = "Take Control of Malden"; // Description
+loadScreen = "pdglogo.jpg"; // Preview picture
+overviewText = "PDG Xian : ALiVE Mod by ALiVE Team";
+
+class Header
+{
+  gameType = Coop;
+  minPlayers = 1;
+  maxPlayers = 40;
+};
+
+enableDebugConsole = 1;
+ShowGPS = 1;
+
+respawn = "BASE";
+respawnDelay = 5;
+disabledAI = 1;
