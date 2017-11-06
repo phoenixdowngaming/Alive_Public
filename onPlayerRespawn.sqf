@@ -1,0 +1,1 @@
+hint format ["%1 has Respawned back into the fight!",(name player)];
